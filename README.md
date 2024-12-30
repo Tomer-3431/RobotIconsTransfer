@@ -20,5 +20,5 @@ if this is happening all you need to do is to put the extension version name in 
 
 ## Questions
 
-for any question feel free to ask me @Tomer-3431
+for any question feel free to ask me [@Tomer-3431](https://github.com/Tomer-3431)
 and thank you for using my custom icons
