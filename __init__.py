@@ -7,6 +7,10 @@ meterialIconsPath = "/extensions/pkief.material-icon-theme-" + materialIconVersi
 fullIconPath = ""
 
 icons = [
+  "folder-2025wpilib", "folder-2025wpilib-open",
+  "folder-led", "folder-led-open",
+  "folder-sysid", "folder-sysid-open",
+  "folder-vision", "folder-vision-open"
 ]
 
 while True:
