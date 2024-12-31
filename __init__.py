@@ -9,6 +9,7 @@ fullIconPath = ""
 icons = [
   "folder-2025wpilib", "folder-2025wpilib-open",
   "folder-led", "folder-led-open",
+  "folder-paths", "folder-paths-open",
   "folder-sysid", "folder-sysid-open",
   "folder-vision", "folder-vision-open"
 ]
