@@ -4,5 +4,7 @@
   },
 
   "material-icon-theme.folders.associations": {
+    "deploy": "dist",
+    "vendordeps": "lib"
   },
 }
