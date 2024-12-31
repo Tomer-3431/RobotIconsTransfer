@@ -6,7 +6,8 @@ materialIconVersion = "5.16.0"
 meterialIconsPath = "/extensions/pkief.material-icon-theme-" + materialIconVersion + "/icons"
 fullIconPath = ""
 
-icons = ["folder-chassis", "folder-chassis-open"]
+icons = [
+]
 
 while True:
   print("what are you using vscode or wpilib vscode:\n1. vscode\n2. wpilib")
