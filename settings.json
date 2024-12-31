@@ -5,6 +5,12 @@
 
   "material-icon-theme.folders.associations": {
     ".wpilib": "wpilib",
+    "ctre": "ctre",
+    "ctre_sim": "ctre",
+    "ctre_phoenix": "ctre",
+    "phoenix": "ctre",
+    "sim": "ctre",
+    "talonfx": "ctre",
     "deploy": "dist",
     "led": "led",
     "paths": "paths",
