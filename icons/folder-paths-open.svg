@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="225.66887mm"
-   height="302.08701mm"
-   viewBox="0 0 225.66887 302.08701"
+   width="219.04433mm"
+   height="190.97617mm"
+   viewBox="0 0 219.04433 190.97617"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -23,11 +23,12 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     inkscape:document-units="mm"><inkscape:page
+     inkscape:document-units="mm"
+     showguides="true"><inkscape:page
        x="0"
        y="0"
-       width="225.66887"
-       height="302.08701"
+       width="219.04433"
+       height="190.97617"
        id="page2"
        margin="0"
        bleed="0" /></sodipodi:namedview><defs
@@ -35,7 +36,7 @@
      inkscape:label="שכבה 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-3.0257201,-66.820086)"><path
+     transform="translate(-3.0257202,-66.820082)"><path
        d="m 84.636889,66.820081 h -61.20828 c -11.323628,0 -20.4028887,9.07926 -20.4028887,20.402889 V 209.63953 A 20.40276,20.40276 0 0 0 23.428609,230.04242 H 186.65056 a 20.40276,20.40276 0 0 0 20.40289,-20.40289 V 107.62586 c 0,-11.32363 -9.18144,-20.40289 -20.40289,-20.40289 h -81.61117 z"
        id="path1"
        style="display:none;fill:#9c27b0;fill-opacity:1;stroke-width:10.2014" /><path
@@ -43,13 +44,10 @@
        id="path1-2"
        style="display:inline;fill:#9c27b0;fill-opacity:1;stroke-width:9.78476" /><g
        id="g4"
-       transform="matrix(2.6859723,0,0,2.6859723,24.562332,46.589949)"
+       transform="matrix(2.8028692,0,0,2.8028692,9.0537022,33.62277)"
        style="fill:#e1bee7;fill-opacity:1"><path
          d="m 37.16,33 h 19.3 a 10,10 0 1 0 0,-6 h -19.3 a 10.16,10.16 0 0 0 -3.77,19.58 l 31,12.4 a 4.16,4.16 0 0 1 -1.54,8 H 43.54 a 10,10 0 1 0 0,6 h 19.3 A 10.16,10.16 0 0 0 66.61,53.4 L 35.61,41 a 4.16,4.16 0 0 1 1.54,-8 z M 66,26 a 4,4 0 1 1 -4,4 4,4 0 0 1 4,-4 z M 34,74 a 4,4 0 1 1 4,-4 4,4 0 0 1 -4,4 z"
          id="path1-1"
-         style="fill:#e1bee7;fill-opacity:1" /><path
-         id="text2"
-         d="m 1.1255096,119.82764 c -0.22864176,0.0222 -0.45731984,0.0441 -0.68597402,0.0662 v 0.10611 H 1.1255096 Z m 0.869171,0.004 v 0.16852 h 0.1831969 c 4.058e-4,-0.002 6.138e-4,-0.004 9.362e-4,-0.006 -0.067036,-0.0528 -0.1247038,-0.10789 -0.1841331,-0.16259 z"
          style="fill:#e1bee7;fill-opacity:1" /></g></g><style
      type="text/css"
      id="style1">
