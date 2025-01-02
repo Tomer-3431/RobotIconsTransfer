@@ -5,6 +5,7 @@
 
   "material-icon-theme.folders.associations": {
     ".wpilib": "2025wpilib",
+    "deploy": "json",
     "angleChanger": "angleChanger",
     "arm": "arm",
     "chassis": "chassis",
@@ -14,7 +15,6 @@
     "phoenix": "ctre",
     "sim": "ctre",
     "talonfx": "ctre",
-    "deploy": "dist",
     "elevator": "elevator",
     "gripper": "gripper",
     "intake": "intake",
