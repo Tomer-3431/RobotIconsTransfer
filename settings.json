@@ -4,7 +4,7 @@
   },
 
   "material-icon-theme.folders.associations": {
-    ".wpilib": "wpilib",
+    ".wpilib": "2025wpilib",
     "angleChanger": "angleChanger",
     "arm": "arm",
     "chassis": "chassis",
@@ -17,6 +17,7 @@
     "deploy": "dist",
     "elevator": "elevator",
     "gripper": "gripper",
+    "intake": "intake",
     "led": "led",
     "paths": "paths",
     "subsystem": "subsystem",
