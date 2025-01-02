@@ -8,9 +8,15 @@ fullIconPath = ""
 
 icons = [
   "folder-2025wpilib", "folder-2025wpilib-open",
+  "folder-angleChanger", "folder-angleChanger-open",
+  "folder-arm", "folder-arm-open",
+  "folder-chassis", "folder-chassis-open",
   "folder-ctre", "folder-ctre-open",
+  "folder-elevator", "folder-elevator-open",
+  "folder-gripper", "folder-gripper-open",
   "folder-led", "folder-led-open",
   "folder-paths", "folder-paths-open",
+  "folder-subsystem", "folder-subsystem-open",
   "folder-sysid", "folder-sysid-open",
   "folder-vision", "folder-vision-open"
 ]

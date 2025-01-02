@@ -5,6 +5,9 @@
 
   "material-icon-theme.folders.associations": {
     ".wpilib": "wpilib",
+    "angleChanger": "angleChanger",
+    "arm": "arm",
+    "chassis": "chassis",
     "ctre": "ctre",
     "ctre_sim": "ctre",
     "ctre_phoenix": "ctre",
@@ -12,8 +15,11 @@
     "sim": "ctre",
     "talonfx": "ctre",
     "deploy": "dist",
+    "elevator": "elevator",
+    "gripper": "gripper",
     "led": "led",
     "paths": "paths",
+    "subsystem": "subsystem",
     "sysid": "sysid",
     "vision": "vision",
     "vendordeps": "lib"
