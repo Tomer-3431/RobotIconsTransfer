@@ -23,3 +23,17 @@ if this is happening all you need to do is to put the extension version name in 
 
 for any question feel free to ask me [@Tomer-3431](https://github.com/Tomer-3431) </br>
 and thank you for using my custom icons
+
+## Contribute and Sources
+
+- [Material Icon Theme](https://docs.wpilib.org)
+- [Wpilib](https://docs.wpilib.org)
+- [Material Design Icons](https://pictogrammers.com/library/mdi/)
+- [Arm icon created by smalllikeart - Flaticon](https://www.flaticon.com/free-icons/robot)
+- [Chassis icon created by Freepik - Flaticon](https://www.flaticon.com/free-icons/chassis)
+- [ctre](https://store.ctr-electronics.com/)
+- [Elevator icon created by juicy_fish - Flaticon](https://www.flaticon.com/free-icons/elevator)
+- [ICONFINDER](https://www.iconfinder.com/icons/6843343/automation_gripper_machine_manufacturing_robot_robotic_technology_icon)
+- [Paths icon created by Freepik - Flaticon](https://www.flaticon.com/free-icons/way)
+- [Subystem icon created by Freepik - Flaticon](https://www.flaticon.com/free-icons/system)
+- [Limelight](https://limelightvision.io/)
