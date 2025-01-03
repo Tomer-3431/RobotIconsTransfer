@@ -20,6 +20,7 @@
     "intake": "intake",
     "led": "led",
     "paths": "paths",
+    "shooter": "shooter",
     "subsystem": "subsystem",
     "sysid": "sysid",
     "vision": "vision",

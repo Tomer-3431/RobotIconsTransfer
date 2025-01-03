@@ -14,8 +14,10 @@ icons = [
   "folder-ctre", "folder-ctre-open",
   "folder-elevator", "folder-elevator-open",
   "folder-gripper", "folder-gripper-open",
+  "folder-intake", "folder-intake-open",
   "folder-led", "folder-led-open",
   "folder-paths", "folder-paths-open",
+  "folder-shooter", "folder-shooter-open",
   "folder-subsystem", "folder-subsystem-open",
   "folder-sysid", "folder-sysid-open",
   "folder-vision", "folder-vision-open"
