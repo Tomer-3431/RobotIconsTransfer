@@ -32,7 +32,6 @@ and thank you for using my custom icons
 - [Arm icon created by smalllikeart - Flaticon](https://www.flaticon.com/free-icons/robot)
 - [Chassis icon created by Freepik - Flaticon](https://www.flaticon.com/free-icons/chassis)
 - [ctre](https://store.ctr-electronics.com/)
-- [Elevator icon created by juicy_fish - Flaticon](https://www.flaticon.com/free-icons/elevator)
 - [ICONFINDER](https://www.iconfinder.com/icons/6843343/automation_gripper_machine_manufacturing_robot_robotic_technology_icon)
 - [Paths icon created by Freepik - Flaticon](https://www.flaticon.com/free-icons/way)
 - [Subystem icon created by Freepik - Flaticon](https://www.flaticon.com/free-icons/system)
