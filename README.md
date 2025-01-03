@@ -26,7 +26,7 @@ and thank you for using my custom icons
 
 ## Contribute and Sources
 
-- [Material Icon Theme](https://docs.wpilib.org)
+- [Material Icon Theme](https://github.com/material-extensions/vscode-material-icon-theme)
 - [Wpilib](https://docs.wpilib.org)
 - [Material Design Icons](https://pictogrammers.com/library/mdi/)
 - [Arm icon created by smalllikeart - Flaticon](https://www.flaticon.com/free-icons/robot)
