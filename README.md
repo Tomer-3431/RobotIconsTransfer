@@ -33,6 +33,8 @@ and thank you for using my custom icons
 - [Chassis icon created by Freepik - Flaticon](https://www.flaticon.com/free-icons/chassis)
 - [ctre](https://store.ctr-electronics.com/)
 - [ICONFINDER](https://www.iconfinder.com/icons/6843343/automation_gripper_machine_manufacturing_robot_robotic_technology_icon)
+- [Intake icon created by Freepik](https://www.flaticon.com/free-icons/vacuum-cleaner>)
 - [Paths icon created by Freepik - Flaticon](https://www.flaticon.com/free-icons/way)
+- [Shooter icon created by Sympnoiaicon](https://www.flaticon.com/free-icons/ammunition)
 - [Subystem icon created by Freepik - Flaticon](https://www.flaticon.com/free-icons/system)
 - [Limelight](https://limelightvision.io/)
