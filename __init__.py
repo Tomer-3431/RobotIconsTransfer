@@ -2,7 +2,7 @@ import shutil
 
 userName = "user"
 wpilibVersion = 2025
-materialIconVersion = "5.16.0"
+materialIconVersion = "5.17.0"
 meterialIconsPath = "/extensions/pkief.material-icon-theme-" + materialIconVersion + "/icons"
 fullIconPath = ""
 
